@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DipankajSingh
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @DipankajSingh, aa student
+- 👀 I’m interested in fullstack web development
+- 🌱 I’m currently Javascript
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me insta--> it's_dipankaj
 
