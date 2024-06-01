@@ -26,12 +26,6 @@ I'm a passionate web developer with a keen interest in building scalable and eff
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipankajSingh&layout=compact&theme=radical)
 
-## 📝 Blog Posts
-
-- [Your Blog Post 1](https://yourblog.com/post1)
-- [Your Blog Post 2](https://yourblog.com/post2)
-- [Your Blog Post 3](https://yourblog.com/post3)
-
 Feel free to check out my repositories and don't hesitate to get in touch if you want to collaborate or chat about development!
 
 ---
