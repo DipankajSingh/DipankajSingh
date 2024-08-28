@@ -1,23 +1,19 @@
 # Hi there, I'm Dipankaj! 👋
 
-![Header](https://your-image-url.com/header-image.jpg)
-
-I'm a passionate web developer with a keen interest in building scalable and efficient web applications. I have experience working with a variety of technologies and frameworks, and I'm always eager to learn more.
+I'm a passionate web developer with a keen interest in building scalable and efficient applications. I have experience working with a variety of technologies and frameworks, and I'm always eager to learn more.
 
 ## 🚀 About Me
-
-- 🌱 I’m currently learning **Next.js, MongoDB, and advanced JavaScript techniques**
+- Learning c++ these days
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Node.js, and web development in general**
+- 💬 Ask me about **React, Node.js, and web development in general **
 - 📫 How to reach me: **hey@dipdev.tech**
-- ⚡ Fun fact: I completed my 12th grade from an autonomous board and am now pursuing it again from a government-recognized board for a stronger credential.
+
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**: JavaScript, CSS, C, C++
 - **Frameworks**: React, Next.js, Node.js, Express
 - **Databases**: MongoDB, SQL
-- **Tools**: Git, GitHub, VSCode, Postman
 
 
 ## 📈 GitHub Stats
@@ -30,4 +26,4 @@ Feel free to check out my repositories and don't hesitate to get in touch if you
 
 ---
 
-*This README was generated with ❤️ by [Dipankaj](https://github.com/DipankajSingh)*
+ With ❤️ by [Dipankaj](https://github.com/DipankajSingh)*
