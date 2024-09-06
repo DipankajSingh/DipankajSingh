@@ -1,6 +1,6 @@
 # Hi there, I'm Dipankaj! 👋
 
-I'm a passionate web developer with a keen interest in building scalable and efficient applications. I have experience working with a variety of technologies and frameworks, and I'm always eager to learn more.
+I'm a passionate developer with a keen interest in building scalable and efficient applications. I have experience working with a variety of technologies and frameworks, and I'm always eager to learn more.
 
 ## 🚀 About Me
 - Learning c++ these days
