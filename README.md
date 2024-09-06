@@ -2,15 +2,10 @@
 
 I'm a passionate developer with a keen interest in building scalable and efficient applications. I have experience working with a variety of technologies and frameworks, and I'm always eager to learn more.
 
-## 🚀 About Me
-- Learning c++ these days
-- 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, and web development in general **
-- 📫 How to reach me: **hey@dipdev.tech**
-
-
+## 🚀 Status
+ Learning DSA these days
+ 
 ## 🛠️ Skills
-
 - **Languages**: JavaScript, CSS, C, C++
 - **Frameworks**: React, Next.js, Node.js, Express
 - **Databases**: MongoDB, SQL
