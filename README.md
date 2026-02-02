@@ -10,12 +10,15 @@ If it works on my machine, I ship it.
 ### 🛠️ What I'm Building
 
 **1. MuteMaster**
+<br>
 An intelligent Android utility that automatically silences your device based on specific location contexts. It utilizes background services and the Android Location API to solve real-world distractions. Can be found on the Google Play Store.
 
 **2. ResumeRoast**
+<br>
 An AI-powered Android application designed to give brutally honest, actionable feedback on resumes. It leverages Generative AI (LLMs) to parse user data and provide critique, helping job seekers improve their odds.
 
 **3. Notifice**
+<br>
 A lightweight, open-source NPM library for handling notifications efficiently in web applications. It is designed to be dependency-free and easy to integrate into any JavaScript project.
 
 ---
