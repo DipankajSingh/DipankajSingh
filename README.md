@@ -8,7 +8,7 @@ If it works on my machine, I ship it.
 ---
 
 ### 🛠️ What I'm Building
-
+---
 **1. MuteMaster**
 An intelligent Android utility that automatically silences your device based on specific location contexts. It utilizes background services and the Android Location API to solve real-world distractions. Can be found on the Google Play Store.
 ---
@@ -42,5 +42,5 @@ A lightweight, open-source NPM library for handling notifications efficiently in
 
 
 
-[X.com](https://x.com/ItsDipankaj)
-[![X.com](https://img.shields.io/badge/tweeter-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://x.com/ItsDipankaj)
+[🐦X.com](https://x.com/ItsDipankaj)
+
