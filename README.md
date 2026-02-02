@@ -2,19 +2,15 @@
 
 > Curious. Skeptical. Ambitious.
 
-I build Android applications and utility tools. I focus on clean architecture, logic, and solving actual problems. 
-
-If it works on my machine (Ubuntu), I ship it.
+I build Android applications and utility tools. I focus on clean architecture, logic, and solving actual problems. If it works on my machine (Ubuntu), I ship it.
 
 ---
 
 ### 🛠️ What I'm Building
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **MuteMaster** | An intelligent Android utility that automatically mutes your device based on specific locations. Currently in closed testing on Google Play. | `Kotlin` `Android` `Location API` |
-| **ResumeRoast** | *[In Progress]* An AI-powered tool that analyzes resumes and provides brutally honest feedback. | `Java` `GenAI` `Android` |
-| **notifice** | A lightweight NPM package for handling notifications efficiently. | `JavaScript` `NPM` |
+I am currently focused on **MuteMaster**, an Android utility that automates device muting based on location context. It handles background services and location APIs to solve real-world distractions and is currently in closed testing.
+
+In parallel, I'm developing **ResumeRoast**, an AI-powered tool designed to give brutally honest resume feedback using Generative AI. I also maintain **notifice**, a lightweight NPM library for efficient notification handling.
 
 ---
 
